@@ -30,8 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Portrait](https://github.com/naomi19s26/Movie_app/blob/master/movie_app1.gif)
-[Landscape](https://github.com/naomi19s26/Movie_app/blob/master/movie_app2.gif)
+![Portrait](https://github.com/naomi19s26/Movie_app/blob/master/movie_app1.gif)
+![Landscape](https://github.com/naomi19s26/Movie_app/blob/master/movie_app2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Screen to Gif
