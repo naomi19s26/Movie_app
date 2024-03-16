@@ -2,7 +2,7 @@
 
 Submitted by: Naomi Enogieru
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+Flixster app is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: 8 hours spent in total
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 [Landscape](https://github.com/naomi19s26/Movie_app/blob/master/movie_app2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Screen to Gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
